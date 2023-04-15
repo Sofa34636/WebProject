@@ -1,0 +1,19 @@
+
+.post{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    justify-content: space-between;
+    
+    background: white;
+    padding: 2% 2%;
+}
+.content_1{
+    color:darkgray ;
+    padding: 30px 0px 0px 0;
+}
+.content_2{
+    color:darkgray ;
+    
+}
+.button{
+    padding: 30px 0px;
+}

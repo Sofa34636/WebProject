@@ -1,0 +1,12 @@
+.head {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.title {
+    font-size: 30px;
+    text-align: 1px 1px 0 black;
+    margin: 0 0 38px 0;
+}

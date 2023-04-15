@@ -1,0 +1,15 @@
+.button {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    padding:10px; 
+    justify-content: space-between;
+    height: 40px;
+    width: 130px;
+    background: #5a6af8;
+    border: 1px solid #9f9f9f;
+    text-decoration: none;
+    color: rgb(251, 251, 251);
+    border-radius: 4px;
+}
+.button:active {
+    background: #4d5ef8;
+}

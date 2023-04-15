@@ -1,0 +1,19 @@
+.App_content{
+    background-color: rgb(247, 246, 246);
+    padding: 0% 0% 10% 0%; 
+ }
+ .All{
+    display: block;
+    padding: 0% 10%;  
+ }
+ .button{
+    display: flex;
+    padding: 3% 10%;  
+ }
+
+.button2{
+    padding: 0% 2% ;
+}
+.button3{
+    padding: 0% 67% ;
+}

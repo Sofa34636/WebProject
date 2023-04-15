@@ -1,0 +1,14 @@
+.App_content{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    justify-content: space-between;
+    display: flex;
+    padding: 3% 10%;
+}
+.aside {
+    width: 25%;
+    
+}
+.main {
+    width: 73%;
+    padding: 1% 0% 0% 0%;
+}
